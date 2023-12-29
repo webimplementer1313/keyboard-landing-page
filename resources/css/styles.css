@@ -10,4 +10,11 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
 
     font-size: 50px;
     color:white;
+    font-weight: normal;
+}
+
+.link--cta {
+    font-size: 16px;
+    color:aquamarine;
+    
 }
